@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Dataset (large, institutionally provided — not meant for public redistribution;
+# remove this line if you do want it version-controlled)
+data/
+
+# Training artifacts (checkpoints belong on the HF Hub, not in git)
+**/outputs/checkpoints/
+*.pt
+*.ckpt
+wandb/
+
+# Misc
+*.zip
+.ipynb_checkpoints/

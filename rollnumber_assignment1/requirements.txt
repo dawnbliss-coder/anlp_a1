@@ -1,0 +1,7 @@
+torch>=2.1
+tokenizers>=0.19
+matplotlib>=3.7
+sacrebleu>=2.3
+rouge-score>=0.1.2
+wandb>=0.16
+huggingface_hub>=0.20
