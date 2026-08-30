@@ -1,0 +1,59 @@
+{
+  "C5": {
+    "test": {
+      "bit_level_accuracy": 0.9171072517958765,
+      "sequence_accuracy": 0.0,
+      "levenshtein": 59.052
+    },
+    "peak_gpu_mem_mb": 1301.84423828125,
+    "params": 10012928
+  },
+  "C1": {
+    "test": {
+      "bit_level_accuracy": 0.5988211877606262,
+      "sequence_accuracy": 0.0,
+      "levenshtein": 187.02,
+      "bleu": 0.07753349242068569,
+      "rouge1": 0.14441334686695023,
+      "rougeL": 0.1286403898043802
+    },
+    "peak_gpu_mem_mb": 2242.38720703125,
+    "params": 8142824
+  },
+  "C2": {
+    "test": {
+      "bit_level_accuracy": 0.6374880717090663,
+      "sequence_accuracy": 0.0,
+      "levenshtein": 275.288,
+      "bleu": 0.04922701033243004,
+      "rouge1": 0.04011026608483479,
+      "rougeL": 0.03257637025245991
+    },
+    "peak_gpu_mem_mb": 2240.9345703125,
+    "params": 8142824
+  },
+  "C3": {
+    "test": {
+      "bit_level_accuracy": 0.6295724767784666,
+      "sequence_accuracy": 0.0,
+      "levenshtein": 198.774,
+      "bleu": 0.21901455357435956,
+      "rouge1": 0.14987783989162845,
+      "rougeL": 0.1276396447289175
+    },
+    "peak_gpu_mem_mb": 2217.8798828125,
+    "params": 6958568
+  },
+  "C4": {
+    "test": {
+      "bit_level_accuracy": 0.5853194682993581,
+      "sequence_accuracy": 0.0,
+      "levenshtein": 191.458,
+      "bleu": 0.07472869684675548,
+      "rouge1": 0.1472225454839583,
+      "rougeL": 0.13052260109555083
+    },
+    "peak_gpu_mem_mb": 2121.35400390625,
+    "params": 8137192
+  }
+}

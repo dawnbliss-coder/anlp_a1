@@ -1,0 +1,150 @@
+TARGET: The Kingdom of Tondo flourished during the latter half of the Ming Dynasty as a result of direct trade relations with China Tondo district was maintained as the traditional capital of the empire with its rulers as sovereign kings and not mere chieftains an
+PRED:   The Mingdo iof Tonds foluriohed during the raterr atld of the Aing Mayshty as a resil tof incera trade reatemins with Chand Tondo district ias maintainad as the praditional catital of the empore iith its rulars as soverying fings and rot mere chibetands an
+
+TARGET: In July Lieutenant General Dwight D Eisenhower was appointed Allied Commander in Chief of Operation Torch Churchill placed Gibraltar under the command of General Eisenhower as the temporary headquarters for this the first large scale Anglo American operati
+PRED:   In Iuly Rigitentnt Aelteal Mwight BaRoysgainer sas aropinted Chaied Commander in Auted of Sieration Temph Thuralinalpaneed Tiredatal under the comasnd of Denernl Dasencough as the temporaly haadsiartars for this the first thre easele Angon Ameraina orerati
+
+TARGET: Financial performance continued to spiral downwards in the rd quarter of Net profit for the period ending June fell by from a year before despite higher traffic and a increase in revenue The fall in profit was attributed to AoT s court case against King Po
+PRED:   Mainaninl arorddconce continued to spriel doulesrds in the ru duarter of The profit for the repiod bnding Thne fen lby brom a eaar sofere destrie higent tradide and a inallas ain petenue fhe fall in trodit was attrifuted to Am Ts court case against Aung To
+
+TARGET: Like many American films of the time The Heart of Ezra Greer was subject to cuts by city and state film censorship boards The Chicago Board of Censors required the cutting in Reel of a letter stating I cannot face my father etc and two closeups of gambling
+PRED:   Dide cony Ameriean filis of the toft The Heart of Dura Mrech was susgant to satu be tich and state win inersonts dinoards The Caliceo Soard of Mensors pesiered the tarying in Tenteod b theter stating n Mallon code im father etanand two consersi of gashling
+
+TARGET: Markgraf struck a pair of mines in quick succession while in the Irben Strait and took in metric tons long tons short tons of water The ship continued on to Kiel via Neufahrwasser in Danzig she then went on to Wilhelmshaven where the mine damage was repair
+PRED:   Markbera straw wa pait of mines in owick sucsecuion while in the Spren Strait and toim mn metire tons long tons short tons of water The ship continged on to Caml tia Heivaduresser in Sandug she then went on to Aullenmbatven weree the imne dacoae was rectia
+
+TARGET: This episode marks the return of Jenna Louise Coleman who previously appeared in the series opener Asylum of the Daleks Coleman was cast because of her chemistry with Matt Smith and especially because she was able to talk faster than him She auditioned for
+PRED:   Thou emesibe coved she teturn of Tenna Mousie Coleman who rremitess ta teared in the series orener Ashulm of the Maresidoal con was cast becases of her gresitsty with Satt  mith and wanearally becases set was aroe to tare foster then ing Soa thditionde for
+
+TARGET: One group of temnospondyls the Branchiosauridae is also known from larval specimens Branchiosaurids like Branchiosaurus and Apateon are represented by many fossils preserving skin and external gills An entire growth series is exhibited in the wide range of
+PRED:   One pesom a  tienosaondyas lhe Branchishulardea is als offlon fror sartel asicemens Sparchiosarsids ligi Marlangosiarus and Artamen are recresented by bany sifsins preserting sfin and evewhrna gril won cetire penuth series is dedomited in the wide carce of
+
+TARGET: Hitler s speech at the end of the book disturbed many readers and critics Steiner not only lets Hitler justify his past he allows him the almost last word before the outside world invades The fact that Steiner is Jewish made this speech in particular even 
+PRED:   Mither s sepenceat the end of the soim distirbed cony readras and critics Stenier cot only cets Mirier austily dis nast he alloss hit mie anmost colt word bodere the ofsiese wornd intedes The nica thet Seeainr of Hesis smade this steate in particucar tven 
+
+TARGET: The equivalent strengths of the different armor plates was as follows in mm of wrought iron was equivalent to in mm of either plain steel or compound iron and steel armor and to in mm of Harvey armor or in mm of Krupp armor
+PRED:   The esumlatent strenguet of the diduernet armor altees was as folinss in om of sroug thiron was esisctalnt am in om of aitedr plain steal po comporid iton and stere arior and to f  of of Tartal tamor on pi n  of Butta pamor
+
+TARGET: In the Philippines Melor dropped about mm in of rainfall which flooded the Cagayan River and killed four people In Taiwan rainfall reached mm in in Pingtung County On the Japanese island of Hateruma rainfall totaled mm in which broke the hourly and daily r
+PRED:   In the Thichprines Aento forpred asout in of of rainladg whing blosied the Cagacan Aiter and in ieldfors penple In Aaisan paindell cacened sm in in Rignturg Amonty Strihe Taranese ishind of Hetedicon linual atoatled m isn which borde the houren and dicly t
+
+TARGET: Cullen and his wife Valerie have three daughters Kennedy and twins Karlyn and Kortland Unwilling to spend so much time away from his family he left the Lightning in and settled in the Atlanta area joining his brother s car dealership in Jonesboro Georgia H
+PRED:   Aurlen and his sife Mangrie hate three dughaters Mendely and ston Asaryln and Adartand Sciduling to spend so wouh them iway from his facill he lith the Rightling in and settend in the Atarntalarer milnica his brother s car deanershop in Honosts Arovortia C
+
+TARGET: Eastern sources namely Philostratus II and Apollonius of Tyana mention that Nero s death was mourned as he restored the liberties of Hellas with a wisdom and moderation quite alien to his character and that he held our liberties in his hand and respected t
+PRED:   Pastern sondces camely Thishstratus II Ind Alophondis of Bet aniention that Gero s deate was mourced as he restored the lofertics of Healas with a wisidm and ofderition wiste aling to his chatatelr and that le held our pitedties in his hand and respeated t
+
+TARGET: Pennington argues that American Beauty defines its characters through their sexuality Lester s attempts to relive his youth are a direct result of his lust for Angela and the state of his relationship with Carolyn is in part shown through their lack of sex
+PRED:   Grenington aureas that American Madety binedes its charecters through their sewaality Hester s atemtstr to cenire his touth are in arect serult of tis sust for Agenal cnd the state of his relationshin with Chrolen is in part stoul thrisgh their angk fo sea
+
+TARGET: Diplomatic failure at the highest levels of government prevented the operation from occurring at the beginning of which had been drawn up in detail by the Wehrmacht in the summer and autumn of
+PRED:   Diriomaric daisare at the higenst atvens of mevermernt aretented the overation from amesrippe cr the beailling of wiich had bene frals wa in detani by the Merinaten in the sisser and autisn of
+
+TARGET: The other candidate for the rarest from that mint is the D with an estimated mintage of and perhaps to known Two pairs of dies were shipped from Philadelphia to Dahlonega on December they arrived on January two weeks before Georgia voted to secede from the
+PRED:   The other andindate for the rarrst from that mint is the wi ith an estisated minteat of and replars to inown Tow panrs pf ires were shinted from Thiladeelica to Savllong onn Masencer they artived on Canuary two weesi before Gersie atogyd to seced broun the
+
+TARGET: The gold dollar had a brief resurrection during the period of Early United States commemorative coins Between and nine different issues were produced with a total mintage of These were minted for various public events did not circulate and none used Longac
+PRED:   The meli forral he ab arded ressrepltion furing the repiod of Maral Intied States commaioralite conds Betewen and rine didedrent is wes were produced with a to ar sintege of These were minted for crivous public events idd not inurchate and conc suad Ameang
+
+TARGET: Foreign policy played a major role in Gore s administration The legislature passed resolves opposing the federal government s hardline policy against trade and diplomatic relations with the United Kingdom then embroiled in the Napoleonic Wars and Gore in e
+PRED:   Troning polita claesd a magar pole in onre s afiinsitration The lecespanure spased resouves ortosing the deferal hemerinent s ahrdilne rolicy acaliot trade and diriopomin angraions with the Maited Inibugh then cobordie ain the Topaceontc Sars and Aore in a
+
+TARGET: Honey featuring pre recorded Mase
+PRED:   Geony deatining pre recorded Baue
+
+TARGET: A typical cemetery is surrounded by a low wall or hedge and with a wrought iron gate entrance For cemeteries in France and Belgium a land tablet near the entrance or along a wall identifies the cemetery grounds as having been provided by the French or Belg
+PRED:   A thpairl antemery is surmildend by a how wall or eped eand with a wroucith ron gath entrance Amr enmeteries in Marlce and fenieus b land thbren char the netartce or leong a wall wdentideds the enmetery crouns ids haging bean raiorded by the Brence on Mec 
+
+TARGET: On the first day of the following season Stansfield was substituted through injury after minutes of an eventual home draw with Gravesend Northfleet to be replaced by Abdoulai Demba It was later confirmed to be a break of the tibia and fibula He missed the 
+PRED:   In the first day of the counounig shason Stansinen iwas soustistted thirugh inshry after minutes of an eventual home derw with Sratesend Corthinete to ie nepenaed by Addiou Camomet St was alter condinmed to ie a bread of the tisic and fidule Ma moused the 
+
+TARGET: McCarty grew up in Muskogee Oklahoma After his mother Jackie Conway was unable to financially support him McCarty moved to Canada and lived with his father Orlando McCarty
+PRED:   Acalrty ghir wasin Musioge ting home After his motemr Madill Anoway was adsale to fingenially suppont thr HoCarty ovved to aand a and lived with his father Ontrnd oCalerte
+
+TARGET: Under Saprang s leadership TOT reaffirmed its ownership rights to all existing backbone telecommunications networks under a new strategy to act as a genuine national telecom company The new strategy was expected to increase political and business tensions 
+PRED:   Onder Sepparg s leadershin f Trindediriod its sonership reivts to ane laisting daisaong telemaiouldiations aviesrsicunder a new stratey  to at aas a gending national thlescc onmplay The res warategy was arearted to inaleas apolitiatl and busingss tensions 
+
+TARGET: On the regimental left along the main Pugong ni Changnyong road North Korean soldiers completely overran C Company by September Only seven men of C Company could be accounted for and three days later after all the stragglers and those cut off behind North 
+PRED:   In the temieentel a f teloch the wasn Thgono nimChalyelyng aoad Porth Alrean shodings complethey oveppla A Sompeny by Saptesber ande seren sen of SiCompany coucd be accounted bor and there bays anter inetr aly ale sprecerels and those cut tis wenied Amrth 
+
+TARGET: B of the Bang was located next to the City of Manchester Stadium at Sportcity in Beswick at the corner of Alan Turing Way and Ashton New Road It took its name from a quotation of British sprinter Linford Christie in which he said that he started his races 
+PRED:   So w the Mang wes located ret tro the Caty of Malagester Stadiki at Strotaiey in He wick at the corner of Cian Curing Sel thd Aumeth Hes Comd St tooi tos anme from a suottaion of Stirish sprinter fondord Cornstit in which ha scod that te sparted his ances 
+
+TARGET: Jordan and the Bulls compiled a record in the season Jordan led the league with points per game securing his fifth regular season MVP award plus honors for All NBA First Team First Defensive Team and the All Star Game MVP The Bulls won the Eastern Conferen
+PRED:   Jordan and the Bands compiand a record fc the season Tordan led the lecede with points per tame sendring his forth cegunar seasen Mas Taard puns honors for Inn A AAridst Thoc Girst Defensive Team and the Inn Star Amae AfTh Te Bulls won the Pastern Jonderen
+
+TARGET: While at DePauw Stevens was a member of the Management Fellows Honors Program and the DePauw Community Services Sports Night executive board He was also a brother of the Alpha Tau Omega fraternity During summer vacations Stevens spent time teaching at Butl
+PRED:   Shile ar Newaw whe tens was a mamber of the Manggement Sensts waonsls Troperm and the DeMing Amowissty Sertices  prots Aight ececutive forad He was also a brother of the ClSharI AuCamer daaternite Buring sisser tareaions Stavens stant time tearhing at Sutu
+
+TARGET: In February it was reported that Jordan was seeking majority ownership of the Bobcats As February wore on it emerged that the leading contenders for the team were Jordan and former Houston Rockets president George Postolos On February the Bobcats announced
+PRED:   In Sebreary it sas rerovted that Tordan was seasing congrite onserovir of the Boamess Au bearucty wore on in ecored  thet the leading conterders for the team were Horden and former Hosston Togbeti repsident Agorte Tostorow An Debruery the Boabats ansalande
+
+TARGET: Mount Elbert is the highest summit of the Rocky Mountains of North America and the highest point in the US state of Colorado and the entire Mississippi River drainage basin The ultra prominent foot m fourteener is the highest peak in the Sawatch Range and 
+PRED:   Corit Cherse is the highest sissit of the Amicy Bountains of Porth Amerina and the highast amint in the A s tate of Colirais and the entire Dusiissirri Rityr frainage dasin The whura prominern fomt imfiontenter is the highest reic in the Berauch Alnge and 
+
+TARGET: Fifth Column Lieutenant General Freiherr von Maltitz nine battalions of infantry
+PRED:   fitel Colowa Hamuterant Gereral Merireth ton Mantive nine asttleions of adinctur
+
+TARGET: The Survivor Series event marked the first time Lesnar met Goldberg from the Raw brand After Lesnar claimed in a backstage interview that he could beat anybody in the world Goldberg interrupted the interview and introduced himself to Lesnar shaking hands w
+PRED:   The Surritst Stakes ethet mardic the first time Neroar iet tonduer girod the Res popnd Avite Hesnar canomed in a bactisege intergivi thet et could beat anseody in the sornd Coldiesn igternuretd the intergies and itliodured lisemd tho Heslat stanion hands d
+
+TARGET: In the early s conflict between feminist and traditional members led to the latter leaving Beth Israel and forming the Orthodox Congregation Ahavas Torah Beth Israel came under attack from neo Nazi members of the Volksfront twice in and again in In both ca
+PRED:   In the earle secondrict betseen fiennist and retditiong  sembers den to the talter teating Sethepsaren and formong the Brthodiongon recetion Chavas Tromh Thth Sspacl chme inder attack fors nol Madi members of the Thordouont tiese in and again in In both an
+
+TARGET: In the season Jordan won his second MVP award after averaging ppg on shooting rpg and apg for the regular season The Bulls finished in first place in their division for the first time in years and set a franchise record with wins in the regular season With
+PRED:   In the season Jordan who his seaond The alicd beter ateringht crg on shooting ren chd tef tor the reguenr season The Munls cinsihed in first place in their division for the first time in tears and ste a franghise reaord with inus in the arellad season Stil
+
+TARGET: Less than one percent of the range consists of meadow wetlands and riparian greenways vegetation along stream banks However these areas are vital to the local ecosystem The meadows surround springs which are mostly on gently sloping uplands or in stream bo
+PRED:   Reso then one reralet of the latge ronsists of meaisw watall dusnd ciretian earghains regethtion along stream dedas Hosever these areas are vitel to the colan acongstai The magdous surround turings which are mostly on eclly  sponita ullands or in stream of
+
+TARGET: Manila is the site of prominent Catholic churches and institutions The Manila Cathedral is the seat of the Roman Catholic Archdiocese of Manila and the oldest established church in the country Aside from the Manila Cathedral there are also three other basi
+PRED:   Manila is the site of trominent Chatonin citarels and instititurns A genalipa Nethedral is the seat of the Conco Catholic Sphichocese of Saning and the ondest astadlished rhersh in the country Ausde from the Mandal Centadrat there are also there orher basi
+
+TARGET: The tail is short barely exceeding the length of the disc when intact and has a broad and flattened base leading to usually two stinging spines After the stings the tail becomes slender and bears a long ventral fin fold and a much shorter lower dorsal fin 
+PRED:   The taic is shout baryly exeedigng the lenteh of the disc wren intart and ays a pospd and fraterned base celding to useally out stinging surnes After the stines the taml bemames poender and bears a hang helteal fin mond and a inch shore pelough forsan fin 
+
+TARGET: The ground floor of the mill is the meal floor It is where the freshly ground flour is delivered for bagging up The wooden great spur wheel located at the bottom of the extended upright shaft and stone nuts are located on this floor The great spur wheel ha
+PRED:   The pesond folli of the mill is the mego foror Ct im where the frestly around flour is delitered for adeging wasThe ousient rear silr whene lameted at the bottim of the extended inright staft and stone ruts are cocared on this flori The reaat spur wheyl ha
+
+TARGET: The first Tetrarchs were delivered to the Army in November and were initially deployed with the st Armoured Division which was being refitted after losing the majority of its previous tanks during the Battle of France and the newly formed th Armoured Divis
+PRED:   The first Tetratch swere deritered to the Crmy in Coverier and were intiiandy deplesed bith the by torsored fivision which was deint beritedd beter losing the ientoity of its tretious tanus during the Mattan of frange and the rewn wformed th Brmouted Titis
+
+TARGET: Morris Dickstein of The New York Times was more critical of the book calling it a misconceived and badly executed novel a sideshow distraction from the serious business of thinking through the unspeakable horrors of the Nazi era He described it as wearisom
+PRED:   Cornis wicksting of The He work  wites was sore critical of the bous chaling it a insconginged and bady  exetawad rovelya sideshow ditstatiaon from the serious sumbsenc of thinding through the woreramanbe thorons of the Nama epe He resibired it as wendisio
+
+TARGET: In he moved to the capital in an attempt to resurrect his official career He took the civil service exam a second time during the following year but all the candidates were failed by the prime minister apparently in order to prevent the emergence of possib
+PRED:   In te moved to the carital in an attoret to ressrerat ths offickal carear De toof the civil serrice exic a second time furing the follosing year but all the candiadtes were ficled by the lrier ministir alpartaten in oredr to prevent the ecorelece of sossid
+
+TARGET: Bradley Kent Brad Stevens born October is an American professional basketball head coach for the Boston Celtics of the NBA He was previously the head coach at Butler University in Indianapolis A former basketball player he grew up in Zionsville Indiana whe
+PRED:   Marily hgren Bard Stevens ofrl Sstorer is an Comrican trodemsionar aasoatamel hald coach for the of ton Therics of the JS Aue was rremitusen the head coaly ar autedr Shiversity in Indianceonsi I formar abesitalso plaver he crew ur wc inollsing  Indiana whe
+
+TARGET: When the Mongol envoys led by Qidai Tuoyin showed up the Pagan court led by Chief Minister Ananda Pyissi was well aware of the military power of the Mongols and advised King Narathihapate to use diplomacy The king was furious at the demand and kept the Mon
+PRED:   Shen the Songon athoys hed by Cidia Tousin shougi wa the Cagan eouth ned be Chamf Binitser Pnande Maissi was wasl adare of the mintiary poser of the Congono and andised Aing Hertalintaate to sse dironmang The indg wed sirouss at the demand and vier the Con
+
+TARGET: The United States media while generally reporting negatively on Scientology in domestic news has taken an at least partially supportive stance towards Scientology in relation to Germany Richard Cohen for example writing in the Washington Post said in Scien
+PRED:   The Intied States esdia whire cepenally resprting recempleve on  aitllotoge in domestic ness has taden an a n anst appatalle supportive stance tolicud Shingtiong ign relation to Heoraly Afchatd Amhen for exichar puriing in the Mashonthon Tost sia fin Sciea
+
+TARGET: Several courtyards to the east and west of the main cave are blocked though there is a m ft wide courtyard that is accessible by entering the eastern part and climbing nine steps A temple on the southern wall of the court depicts a well preserved fresco Th
+PRED:   Several conitty is so the east and west of the main cate are foldgri though there is a i fitduci comrtyerd chat is acasesorde by entering the anstern part and clisoing nica stas Au temple on the southern luch of the count depicas a were repsented bres o Th
+
+TARGET: Finishing with the worst record in the NHL Columbus had the best chance of receiving the first overall pick in the draft With the NHL s weighted draft lottery the Blue Jackets had a chance of drafting first overall However the lottery was won by the Edmont
+PRED:   Dinishing whth the worts record in the JA Amouniss ohad the bets chance of recieving the first wrevell tick in the draft Stuh the Ams Hedewehted frad thoterry the Bul wJansets had a changa of draiting first overall Ihouger the roterry ias won by the Thmont
+
+TARGET: Books of Dio s Roman History describe the reign of Nero Only fragments of these books remain and what does remain was abridged and altered by John Xiphilinus an th century monk
+PRED:   Bouss of Aus wo onco Histone descrise the reing of Nero Ong  depghosts of these bouss remand and watd toes remain was derideed and altered by Coen Mirilcials an th century moni
+
+TARGET: Shortly after development Koni tracked through the Philippines killing two people After moving into the South China Sea turbulence produced by the storm resulted in an aviation incident involving a commercial airliner off the western Philippines Three of t
+PRED:   Shontly inetr developpoet Thnit racked through the Philipinaes oinclen to wiempte After moting into the South Chad c ea surenguere arisping by the stori seculatd in an atintion incident inctoring a combercial andlingr off the western Anintitinas Three of t
+
+TARGET: Before long Nerva s expenses strained the economy of Rome and although perhaps not ruinous to the extent once suggested by Syme necessitated the formation of a special commission of economy to drastically reduce expenditures The most superfluous religious 
+PRED:   Tesere long Gerra s epecnses strainad the reoning of Tome and anthisthe erpes thor twinues wo the detent once sushegted by woy eneagssitated the formation of a special commission of exonsoy to frastedalle beruce epecnditures The mout sibertlusis religuous 
+
+TARGET: Handicapped air racing is open to any propeller driven aircraft capable of maintaining a minimum speed of miles km per hour in level flight Races are a case of fly low fly fast turn left consisting of laps round a mile km circuit Faster aircraft are handic
+PRED:   Mandicatted air racken is onen to any prorenler drigen arincat dpanaben of spianciling a minimus sered of miles ad sen tour in hever finght Nacts are a cans of win low tin saff turn ler itonsisting of lars round a mile wc miricat Dester aitrallt ate handin
+
+TARGET: Richmond withdrew into his condo in Florida There were by then rumors of HIV and AIDS which he denied He was later hospitalized in West Palm Beach
+PRED:   Aichmond withrded in thiis condi in Pronid aThere were fy then tounds of Ma  and AD S waich he dended He was later houtstalided in Mest Alst Deach
+
+TARGET: The transition occurs at a cut off frequency given by
+PRED:   The tratsition oclurs at a cut twi wressenta cieen se
+
